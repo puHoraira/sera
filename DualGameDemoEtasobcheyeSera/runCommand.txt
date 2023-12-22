@@ -1,0 +1,2 @@
+g++ chessmain.cpp sdlshape.cpp chessAI.cpp game.cpp starter.cpp chessboard.cpp copyofMain.cpp sdlevent.cpp main.cpp chess.cpp credit.cpp sdlrender.cpp piecemanager.cpp -lSDL2 -lSDL2_image -lSDL2_ttf
+
